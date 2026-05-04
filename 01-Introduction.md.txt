@@ -17,8 +17,6 @@ This training enables you to:
 3. Explain how initial access evolves into a complete breach through credential compromise, lateral movement, privilege abuse, and resulting organizational impact.
 4. Explain how cyber threat intelligence is produced, shared, and consumed to provide ongoing awareness of attacker behavior and emerging risks.
 
-![DOWNLOAD: Resource Title](/resources/downloads/topic-download-example.docx "description" | "alt-text" | "thumbnail-location.jpg")
-
 Now, it's time to get started!
 
 
