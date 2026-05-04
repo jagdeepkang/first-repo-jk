@@ -4,7 +4,6 @@ Examples are also available in the 'getting started' module.
 
 # Introduction
 
-
 Welcome to the ** Modern Cyber Threat Analysis and Intelligence** course!
 
 Users, devices, and applications within your organization are connected across on-premises and cloud platforms in a modern, distributed environment. There are security controls in place: firewalls enforce access control policy, access is restricted, and vulnerabilities are scanned and patched. In theory, the environment appears to be well protected.
@@ -18,9 +17,4 @@ This training enables you to:
 4. Explain how cyber threat intelligence is produced, shared, and consumed to provide ongoing awareness of attacker behavior and emerging risks.
 
 Now, it's time to get started!
-
-
-
-
-
 
