@@ -1,0 +1,22 @@
+::: Terminal Objective "Learn fundamentals of Modern Cyber Threat Analysis and Intelligence "
+
+<AssessmentQG>
+
+<QuestionMC>
+
+::: Enabling Objective "Identify Primary Threat Actor Categories"
+
+A group targets an organization and quickly makes the incident public. The messaging is framed around a social cause, and the goal appears to be embarrassment and pressure rather than long-term access or profit. Which threat actor category best fits this behavior?
+::: Answers
+
+- [ ] nation-state or APT 
+- [ ] cybercriminal
+- [x] hacktivist
+- [ ] insider (malicious or unintentional)
+
+
+
+
+
+
+
