@@ -1,0 +1,28 @@
+Start writing your content from here in markdown. For each topic use a new markdown file in this folder.
+
+Examples are also available in the 'getting started' module.
+
+# Introduction
+
+
+Welcome to the ** Modern Cyber Threat Analysis and Intelligence** course!
+
+Users, devices, and applications within your organization are connected across on-premises and cloud platforms in a modern, distributed environment. There are security controls in place: firewalls enforce access control policy, access is restricted, and vulnerabilities are scanned and patched. In theory, the environment appears to be well protected.
+Yet incidents persist across the industry, and post-incident analysis shows a consistent pattern. Unknown vulnerabilities or obvious technical bypasses can compromise systems. But most often, access is granted through valid credentials and trusted workflows.
+Rather than forcing their way in, modern attackers simply operate within the existing rules. This shift redefines the security challenge. Effective defense now requires a deep understanding of the adversaries, their motivations, and the high-success techniques they favor over traditional software exploits. Isolated events, such as an unusual login or a phishing email, may seem minor on their own, but you must leverage threat intelligence to correlate these signals and uncover the malicious intent hidden within these events.
+!(/images/topics//Introduction.svg)
+This training enables you to:
+1. Explain how the motivations and constraints of various threat actors result in predictable attack patterns and specific organizational impacts.
+2. Explain how various threat actors typically gain initial access using distinct attack vectors across endpoints, identity, networks, and cloud applications.
+3. Explain how initial access evolves into a complete breach through credential compromise, lateral movement, privilege abuse, and resulting organizational impact.
+4. Explain how cyber threat intelligence is produced, shared, and consumed to provide ongoing awareness of attacker behavior and emerging risks.
+
+![DOWNLOAD: Resource Title](/resources/downloads/topic-download-example.docx "description" | "alt-text" | "thumbnail-location.jpg")
+
+Now, it's time to get started!
+
+
+
+
+
+
